@@ -9,4 +9,9 @@ Basic ML Models Implementation
   * Ridge Regression
     * Implemented using Normal Equation
   * Lasso Regression
-    * Implemented using coordinate descent method  
+    * Implemented using coordinate descent method
+* Logistic Regression
+  * Binary Classification
+  * OvR (One vs Rest)
+  * OvO (One vs One) called as softmax
+ 

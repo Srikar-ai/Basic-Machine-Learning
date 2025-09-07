@@ -6,10 +6,10 @@ Basic ML Models Implementation
   * Implemented using Normal Equation.
   * Implemented using Gradient Descent.
 
-  * Ridge Regression
-    * Implemented using Normal Equation
-  * Lasso Regression
-    * Implemented using coordinate descent method
+* Ridge Regression
+   * Implemented using Normal Equation
+* Lasso Regression
+   * Implemented using coordinate descent method
 * Logistic Regression
   * Binary Classification
   * OvR (One vs Rest)

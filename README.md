@@ -14,4 +14,9 @@ Basic ML Models Implementation
   * Binary Classification
   * OvR (One vs Rest)
   * OvO (One vs One) called as softmax
+* Decision Tree
+  * Simple Implementation
+* SVM
+  * Simple Implementation
+  * SMO Implementation
  

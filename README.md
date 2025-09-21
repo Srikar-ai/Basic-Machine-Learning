@@ -19,4 +19,15 @@ Basic ML Models Implementation
 * SVM
   * Simple Implementation
   * SMO Implementation
+* Naive Bayes
+  * Bayes Theorem
+* Ensemble
+  * Bagging
+    * RandomForest
+  * Boosting
+    * Adaboost
+    * GBM
+    * XGboost
+    * Catboost
+    * LightGBM   
  
